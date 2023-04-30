@@ -1,0 +1,40 @@
+h3{
+  color:blue;
+  font-size: 22px;
+  background-color: grey;
+  text-align: center;
+  font-family: 'Instrument Serif', serif;
+}
+h1{
+  color:green;
+  background-color:black;
+  text-align: center;
+  text-transform:uppercase;
+  font-family: 'Instrument Serif', serif;
+}
+p{
+  color: red;
+  font-size: 19px;
+  line-height: 25px;
+  font-family: 'Instrument Serif', serif;
+}
+.resaltar{
+  color:orange;
+  font-weight: 600;
+}
+#caja{
+  background-color: yellow;
+}
+h2{
+  text-align: center;
+  background-color: lightblue;
+  font-size: 22px;
+  font-family: 'Instrument Serif', serif;
+
+}
+div{
+background-color: lightblue;
+column-count: 1;
+box-shadow: -31px 10px 5px 0px rgba(191,29,29,0.75);
+-webkit-box-shadow: -31px 10px 5px 0px rgba(191,29,29,0.75);
+-moz-box-shadow: -31px 10px 5px 0px rgba(191,29,29,0.75);
